@@ -1,0 +1,5 @@
+{
+  "name": "AI Voice Detector",
+  "description": "A full-stack application to detect AI-generated voice samples using a React frontend and Python FastAPI backend.",
+  "requestFramePermissions": []
+}
